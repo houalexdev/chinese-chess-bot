@@ -29,7 +29,7 @@
 
 **冠军 vs 亚军，巅峰对决。**
 
-![Watch the Grand Final](https://raw.githubusercontent.com/houalexdev/chinese-chess-bot/main/grand_final.mp4)
+![Watch the Grand Final](https://raw.githubusercontent.com/houalexdev/chinese-chess-bot/main/chess.png)
 
 ---
 

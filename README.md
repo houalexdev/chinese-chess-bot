@@ -29,7 +29,7 @@ After multiple rounds of round-robin play, the final power ranking is:
 
 **Champion vs Runner-up — the ultimate clash.**
 
-![Watch the Grand Final](https://raw.githubusercontent.com/houalexdev/chinese-chess-bot/main/grand_final.mp4)
+![Watch the Grand Final](https://raw.githubusercontent.com/houalexdev/chinese-chess-bot/main/chess.png)
 
 ---
 
